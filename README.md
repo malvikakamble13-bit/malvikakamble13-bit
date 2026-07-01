@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Malvika&fontSize=60&fontColor=87CEFA&animation=twinkling&desc=Aspiring%20Web%20Developer&descAlignY=75&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:232526,100:414345&height=180&section=header&text=Malvika&fontSize=55&fontColor=00d9ff&animation=twinkling&desc=Aspiring%20Web%20Developer&descAlignY=75&descSize=18" width="100%"/>
 <h1 align="center">Hi there, I'm Malvika 👋</h1>
 
 <p align="center">
