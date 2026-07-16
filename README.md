@@ -43,7 +43,7 @@
 
 - **[Hello Kitty Live](https://github.com/malvikakamble13-bit/hello-kitty-live)** — A playful Hello Kitty page where her eyes follow your cursor in real time. [Live demo →](https://malvikakamble13-bit.github.io/hello-kitty-live/)
 - **[Horror Game — Choose Your Fate](https://github.com/malvikakamble13-bit/horror-game)** — An interactive horror story with branching choices and multiple endings, built with React. [Live demo →](https://horror-game-ebon.vercel.app)
-- **[nutrichoice-ai ypur smart calorie tracker](https://calorie-tracker-pqhyj0iy2-malvikakamble13-bits-projects.vercel.app/)** - A smart calorie tracker app
+
 
 
 <p align="center">
