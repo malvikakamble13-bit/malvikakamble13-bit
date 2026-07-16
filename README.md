@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:021B79&height=200&section=header&text=Malvika&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Web%20Developer&descAlignY=75&descSize=20" width="100%"/>
-<h1 align="center">Hi there, I'm Malvika 👋</h1>
+<h1 align="center">Hi there, I'm Malvika </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Web+Developer;Learning+HTML%2C+CSS+%26+JavaScript;Building+cool+projects+one+commit+at+a+time" alt="Typing SVG" />
@@ -43,7 +43,7 @@
 
 - **[Hello Kitty Live](https://github.com/malvikakamble13-bit/hello-kitty-live)** — A playful Hello Kitty page where her eyes follow your cursor in real time. [Live demo →](https://malvikakamble13-bit.github.io/hello-kitty-live/)
 - **[Horror Game — Choose Your Fate](https://github.com/malvikakamble13-bit/horror-game)** — An interactive horror story with branching choices and multiple endings, built with React. [Live demo →](https://horror-game-ebon.vercel.app)
-- **[nutrichoice-ai ypur smart calorie tracker](https://calorie-tracker-pqhyj0iy2-malvikakamble13-bits-projects.vercel.app/)** - A smart app for tracking you daily calorie intake
+- **[nutrichoice-ai ypur smart calorie tracker](https://calorie-tracker-pqhyj0iy2-malvikakamble13-bits-projects.vercel.app/)** - A smart calorie tracker app
 
 
 <p align="center">
