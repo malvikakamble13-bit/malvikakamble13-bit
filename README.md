@@ -20,7 +20,7 @@
    I am an absolute beginner on my open-source journey, actively learning new skills, exploring technologies, and building exciting things every day!
 </blockquote>
 
-- - 🎓 IT student diving into **Full-stack development**
+- 🎓 IT student diving into **Full-stack development**
 - 💻 Tech Stack Focus: AI/ML, JavaScript, React (Frontend), and MongoDB (Backend)
 - 💬 Ask me about: Frontend basics, full-stack goals, or learning how to code from scratch.
 
