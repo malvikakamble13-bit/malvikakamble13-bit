@@ -45,7 +45,7 @@
 
 ### 📊 GitHub Analytics
 
-<img src="./assets/dataflow-bg.svg" width="100%" alt="animated data flow banner"/>
+<img src="https://cdn.jsdelivr.net/gh/malvikakamble13-bit/malvikakamble13-bit@main/assets/dataflow-bg.svg" width="100%" alt="animated data flow banner"/>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=malvikakamble13-bit&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
@@ -62,7 +62,7 @@
 
 ---
 
-### Continuous Growth & Collaboration
+###  Continuous Growth & Collaboration
 
 > **"The best way to predict the future is to invent it."** — *Driven by a relentless passion for learning new architectures, refining my engineering skills daily, and building impactful open-source projects.*
 
@@ -74,7 +74,7 @@
 
 ### 🌌 Cosmic Perspective & Systems Architecture
 
-<img src="./assets/cosmic-bg.svg" width="100%" alt="animated starfield with orbiting planets"/>
+<img src="https://cdn.jsdelivr.net/gh/malvikakamble13-bit/malvikakamble13-bit@main/assets/cosmic-bg.svg" width="100%" alt="animated starfield with orbiting planets"/>
 
 > **"Somewhere, something incredible is waiting to be known."** — *Carl Sagan*
 
