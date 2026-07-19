@@ -1,24 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:021B79&height=200&section=header&text=Malvika&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Web%20Developer&descAlignY=75&descSize=20" width="100%"/>
-<h1 align="center">Hi there, I'm Malvika </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:021B79&height=220&section=header&text=Malvika%20Kamble&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Full-Stack%20Developer%20%7C%20IT%20Student&descAlignY=72&descSize=20" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Web+Developer;Learning+HTML%2C+CSS+%26+JavaScript;Building+cool+projects+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Driven+IT+Student+%26+Developer;Exploring+AI%2FML+%26+Full-Stack+Engineering;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/malvika-kamble-8a57b9415/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:malvikakamble13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/malvika-kamble-8a57b9415/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:malvikakamble13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 </p>
 
 
 
 ###  About Me
 <blockquote>
-  👤 <strong>About Me:</strong> I am an absolute beginner on my open-source journey, actively learning new skills, exploring technologies, and building exciting things every day!
+   I am an absolute beginner on my open-source journey, actively learning new skills, exploring technologies, and building exciting things every day!
 </blockquote>
-- 🎓 IT student diving into **Web Development**
-- 🔭 Currently learning: AI/ML, JavaScript (and leveling up to React)
-- 💬 Ask me about: beginner web dev, debugging, or how I'm learning to code
+- 🎓 IT student diving into ** Full-stack development**
+- 💻 Tech Stack Focus: AI/ML, JavaScript, React (Frontend), and MongoDB (Backend)
+- 💬 Ask me about: Frontend basics, full-stack goals, or learning how to code from scratch.
 
 
 
