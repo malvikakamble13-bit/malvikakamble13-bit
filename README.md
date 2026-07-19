@@ -13,6 +13,9 @@
 
 
 ###  About Me
+<blockquote>
+  👤 <strong>About Me:</strong> I am an absolute beginner on my open-source journey, actively learning new skills, exploring technologies, and building exciting things every day!
+</blockquote>
 - 🎓 IT student diving into **Web Development**
 - 🔭 Currently learning: AI/ML, JavaScript (and leveling up to React)
 - 💬 Ask me about: beginner web dev, debugging, or how I'm learning to code
@@ -39,7 +42,7 @@
 
 
 
-### 📌 Featured Projects
+###  Simple Projects
 
 - **[Hello Kitty Live](https://github.com/malvikakamble13-bit/hello-kitty-live)** — A playful Hello Kitty page where her eyes follow your cursor in real time. [Live demo →](https://malvikakamble13-bit.github.io/hello-kitty-live/)
 - **[Horror Game — Choose Your Fate](https://github.com/malvikakamble13-bit/horror-game)** — An interactive horror story with branching choices and multiple endings, built with React. [Live demo →](https://horror-game-ebon.vercel.app)
