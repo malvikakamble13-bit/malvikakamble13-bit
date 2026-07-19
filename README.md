@@ -28,30 +28,30 @@
 
 ### 🛠️ Tech Stack
 
-<### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma,tailwind,ts,java,py,mongodb,cs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma,tailwind,ts,java,py,mongodb,cs,iot" />
 </p>
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=malvikakamble13-bit&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvikakamble13-bit&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=malvikakamble13-bit&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="Malvika's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvikakamble13-bit&layout=compact&theme=tokyonight&hide_border=false" alt="Malvika's Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malvikakamble13-bit&theme=tokyonight" />
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=malvikakamble13-bit&theme=tokyonight&hide_border=false" alt="Malvika's GitHub Streak" />
 </p>
 
 
+###  Simple Applications
 
-###  Simple Projects
+- 🐱 **[Hello Kitty Live](https://github.com/malvikakamble13-bit/hello-kitty-live)** — An interactive UI project featuring dynamic, real-time cursor tracking animation. 
+  * [Live Demo →](https://malvikakamble13-bit.github.io/hello-kitty-live/) | *Tech Stack: HTML, CSS, JavaScript*
 
-- **[Hello Kitty Live](https://github.com/malvikakamble13-bit/hello-kitty-live)** — A playful Hello Kitty page where her eyes follow your cursor in real time. [Live demo →](https://malvikakamble13-bit.github.io/hello-kitty-live/)
-- **[Horror Game — Choose Your Fate](https://github.com/malvikakamble13-bit/horror-game)** — An interactive horror story with branching choices and multiple endings, built with React. [Live demo →](https://horror-game-ebon.vercel.app)
-
+- 🎬 **[Horror Game: Choose Your Fate](https://github.com/malvikakamble13-bit/horror-game)** — A responsive, text-based interactive horror experience built with branching state logic. 
+  * [Live Demo →](https://horror-game-ebon.vercel.app) | *Tech Stack: React, JavaScript, CSS*
 
 
 <p align="center">
