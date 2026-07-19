@@ -37,18 +37,21 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma,tailwind,ts,java,py,mongodb,cs,iot" />
 </p>
 
+
 ### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malvikakamble13-bit&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvikakamble13-bit&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=malvikakamble13-bit&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malvikakamble13-bit&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ###  Simple Applications
 
