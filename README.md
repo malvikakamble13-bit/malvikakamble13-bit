@@ -13,55 +13,56 @@
   </a>
 </p>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malvikakamble13-bit&color=0575E6&style=flat-square&label=PROFILE+VIEWS" alt="Malvika's Profile Views" />
-</p>
-
-
-###  About Me
+### 👤 About Me
 <blockquote>
-   I am an absolute beginner on my open-source journey, actively learning new skills, exploring technologies, and building exciting things every day!
+  I am an absolute beginner on my open-source journey, actively learning new skills, exploring technologies, and building exciting things every day!
 </blockquote>
 
-- 🎓 IT student diving into **Full-stack development**
-- 💻 Tech Stack Focus: AI/ML, JavaScript, React (Frontend), and MongoDB (Backend)
-- 💬 Ask me about: Frontend basics, full-stack goals, or learning how to code from scratch.
+* 🎓 IT student diving into **Full-stack development**
+* 💻 Tech Stack Focus: AI/ML, JavaScript, React (Frontend), and MongoDB (Backend)
+* 💬 Ask me about: Frontend basics, full-stack goals, or learning how to code from scratch.
 
-
+---
 
 ### 🛠️ Tech Stack
 
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma,tailwind,ts,java,py,mongodb,cs,iot" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma,tailwind,ts,java,py,mongodb,cs,iot" alt="My Skills" />
 </p>
 
+---
+
+### Simple Applications
+
+* 🐱 **[Hello Kitty Live](https://github.com/malvikakamble13-bit/hello-kitty-live)** — An interactive UI project featuring dynamic, real-time cursor tracking animation. 
+  * [Live Demo →](https://malvikakamble13-bit.github.io/hello-kitty-live/) | *Tech Stack: HTML, CSS, JavaScript*
+* 🎬 **[Horror Game: Choose Your Fate](https://github.com/malvikakamble13-bit/horror-game)** — A responsive, text-based interactive horror experience built with branching state logic. 
+  * [Live Demo →](https://horror-game-ebon.vercel.app) | *Tech Stack: React, JavaScript, CSS*
+
+---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malvikakamble13-bit&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvikakamble13-bit&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=malvikakamble13-bit&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" /><br/><br/>
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=malvikakamble13-bit&layout=compact&theme=tokyonight" alt="Top Languages" /><br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malvikakamble13-bit&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+---
 
-###  Simple Applications
-
-- 🐱 **[Hello Kitty Live](https://github.com/malvikakamble13-bit/hello-kitty-live)** — An interactive UI project featuring dynamic, real-time cursor tracking animation. 
-  * [Live Demo →](https://malvikakamble13-bit.github.io/hello-kitty-live/) | *Tech Stack: HTML, CSS, JavaScript*
-
-- 🎬 **[Horror Game: Choose Your Fate](https://github.com/malvikakamble13-bit/horror-game)** — A responsive, text-based interactive horror experience built with branching state logic. 
-  * [Live Demo →](https://horror-game-ebon.vercel.app) | *Tech Stack: React, JavaScript, CSS*
-
+### 🤝 Let's Connect & Collaborate!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malvikakamble13-bit&color=blue" alt="profile views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=2E9EF7&center=true&vCenter=true&width=500&lines=⚡+Always+open+to+open-source+projects!;🌱+Let's+build+something+cool+together!;💬+Feel+free+to+reach+out+via+Email+or+LinkedIn!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/malvikakamble13-bit">
+    <img src="https://img.shields.io/badge/Follow%20Me-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
 </p>
