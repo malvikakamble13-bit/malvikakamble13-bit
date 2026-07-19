@@ -45,6 +45,8 @@
 
 ### 📊 GitHub Analytics
 
+<img src="./assets/dataflow-bg.svg" width="100%" alt="animated data flow banner"/>
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=malvikakamble13-bit&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
 </p>
@@ -60,17 +62,19 @@
 
 ---
 
-### 🚀 Continuous Growth & Collaboration
+### Continuous Growth & Collaboration
 
 > **"The best way to predict the future is to invent it."** — *Driven by a relentless passion for learning new architectures, refining my engineering skills daily, and building impactful open-source projects.*
 
 * **Currently Diving Deep Into:** Advanced React hooks, building scalable backends, and full-stack integration patterns.
 * Embracing the beginner mindset, writing cleaner code every single day, and leveling up my tech stack step-by-step.
-* 🤝 **Let's Connect:** If you like my journey, feel free to **[Follow my GitHub Profile](https://github.com/malvikakamble13-bit)** to see what I build next!
+*  **Let's Connect:** If you like my journey, feel free to **[Follow my GitHub Profile](https://github.com/malvikakamble13-bit)** to see what I build next!
 
 ---
 
 ### 🌌 Cosmic Perspective & Systems Architecture
+
+<img src="./assets/cosmic-bg.svg" width="100%" alt="animated starfield with orbiting planets"/>
 
 > **"Somewhere, something incredible is waiting to be known."** — *Carl Sagan*
 
@@ -81,5 +85,5 @@ There is a profound architectural parallel between compiling code and the way qu
 <br />
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Programming Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=cosmic" width="100%" alt="Cosmic Quote" />
 </p>
