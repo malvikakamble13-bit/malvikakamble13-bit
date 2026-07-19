@@ -64,12 +64,22 @@
 
 > **"The best way to predict the future is to invent it."** — *Driven by a relentless passion for learning new architectures, refining my engineering skills daily, and building impactful open-source projects.*
 
-* 🌱 **Currently Diving Deep Into:** Advanced React hooks, building scalable backends, and full-stack integration patterns.
-* 🔥 **My Mindset:** Embracing the beginner mindset, writing cleaner code every single day, and leveling up my tech stack step-by-step.
+* **Currently Diving Deep Into:** Advanced React hooks, building scalable backends, and full-stack integration patterns.
+* Embracing the beginner mindset, writing cleaner code every single day, and leveling up my tech stack step-by-step.
 * 🤝 **Let's Connect:** If you like my journey, feel free to **[Follow my GitHub Profile](https://github.com/malvikakamble13-bit)** to see what I build next!
+
+---
+
+### 🌌 Cosmic Perspective & Systems Architecture
+
+> **"Somewhere, something incredible is waiting to be known."** — *Carl Sagan*
+
+Beyond software engineering, I am deeply fascinated by **Cosmology** and the fundamental mechanics of the universe. I view the cosmos not just as space, but as the ultimate, hyper-scalable distributed system governed by elegant algorithmic laws. 
+
+There is a profound architectural parallel between compiling code and the way quantum mechanics and thermodynamic principles construct reality. For me, debugging complex applications closely mirrors decoding the cosmic blueprint—both require analyzing abstract patterns, optimizing complex systems, and engineering digital universes from the ground up.
 
 <br />
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Programming Quote" />
 </p>
