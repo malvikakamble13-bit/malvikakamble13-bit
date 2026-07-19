@@ -14,6 +14,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/malvikakamble13-bit/count.svg" alt="Visitor Counter" />
+</p>
+
 
 ###  About Me
 <blockquote>
