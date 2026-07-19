@@ -36,6 +36,8 @@
 
 * 🐱 **[Hello Kitty Live](https://github.com/malvikakamble13-bit/hello-kitty-live)** — An interactive UI project featuring dynamic, real-time cursor tracking animation. 
   * [Live Demo →](https://malvikakamble13-bit.github.io/hello-kitty-live/) | *Tech Stack: HTML, CSS, JavaScript*
+
+
 * 🎬 **[Horror Game: Choose Your Fate](https://github.com/malvikakamble13-bit/horror-game)** — A responsive, text-based interactive horror experience built with branching state logic. 
   * [Live Demo →](https://horror-game-ebon.vercel.app) | *Tech Stack: React, JavaScript, CSS*
 
@@ -44,22 +46,33 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=malvikakamble13-bit&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" /><br/><br/>
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=malvikakamble13-bit&layout=compact&theme=tokyonight" alt="Top Languages" /><br/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=malvikakamble13-bit&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=malvikakamble13-bit&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malvikakamble13-bit&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🤝 Let's Connect & Collaborate!
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=2E9EF7&center=true&vCenter=true&width=500&lines=⚡+Always+open+to+open-source+projects!;🌱+Let's+build+something+cool+together!;💬+Feel+free+to+reach+out+via+Email+or+LinkedIn!" alt="Typing SVG" />
+###  Continuous Growth & Collaboration
+
+> **"The best way to predict the future is to invent it."** — *Driven by a relentless passion for learning new architectures, refining my engineering skills daily, and building impactful open-source projects.*
+
+<p align="left">
+  🌱 <b>Currently Diving Deep Into:</b> Advanced React hooks, building scalable backends, and full-stack integration patterns. <br/>
+  🔥 <b>My Mindset:</b> Embracing the beginner mindset, writing cleaner code every single day, and leveling up my tech stack step-by-step.
 </p>
 
 <p align="center">
   <a href="https://github.com/malvikakamble13-bit">
-    <img src="https://img.shields.io/badge/Follow%20Me-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow GitHub"/>
+    <img src="https://img.shields.io/badge/Follow%20My%20Journey-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow GitHub"/>
   </a>
 </p>
 
