@@ -73,6 +73,32 @@
 ---
 
 ### 🌌 Cosmic Perspective & Systems Architecture
+<p align="center">
+  <samp>🛰️ TELEMETRY CONFIGURATION: ACTIVE / IDLING</samp>
+</p>
+
+<hr />
+
+<p align="center">
+  <img src="https://amazonaws.com" width="100%" alt="Space Grid Plot">
+</p>
+
+<p align="center">
+  <br />
+  ✦ &nbsp; &nbsp; 🌌 &nbsp; &nbsp; ✦
+  <br />
+</p>
+
+<p align="center">
+  <img src="https://amazonaws.com" width="100%" alt="Solar System Orbit">
+</p>
+
+<hr />
+
+<p align="center">
+  <sub>Deep space metrics nominal. System resting on loop.</sub>
+</p>
+
 
 <img src="https://cdn.jsdelivr.net/gh/malvikakamble13-bit/malvikakamble13-bit@main/assets/cosmic-bg.svg" width="100%" alt="animated starfield with orbiting planets"/>
 
