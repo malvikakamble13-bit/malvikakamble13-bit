@@ -28,10 +28,11 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma,tailwind,typescript,java,python,C#,C++,mongodb,py" />
-</p>
+<### 🛠️ Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma,tailwind,ts,java,py,mongodb,cs" />
+</p>
 
 ### 📊 GitHub Stats
 
