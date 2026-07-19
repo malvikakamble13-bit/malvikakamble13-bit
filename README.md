@@ -57,24 +57,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malvikakamble13-bit&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
 
 ---
 
-###  Continuous Growth & Collaboration
+### 🚀 Continuous Growth & Collaboration
 
 > **"The best way to predict the future is to invent it."** — *Driven by a relentless passion for learning new architectures, refining my engineering skills daily, and building impactful open-source projects.*
 
-<p align="left">
-  🌱 <b>Currently Diving Deep Into:</b> Advanced React hooks, building scalable backends, and full-stack integration patterns. <br/>
-  🔥 <b>My Mindset:</b> Embracing the beginner mindset, writing cleaner code every single day, and leveling up my tech stack step-by-step.
-</p>
+* 🌱 **Currently Diving Deep Into:** Advanced React hooks, building scalable backends, and full-stack integration patterns.
+* 🔥 **My Mindset:** Embracing the beginner mindset, writing cleaner code every single day, and leveling up my tech stack step-by-step.
+* 🤝 **Let's Connect:** If you like my journey, feel free to **[Follow my GitHub Profile](https://github.com/malvikakamble13-bit)** to see what I build next!
 
-<p align="center">
-  <a href="https://github.com/malvikakamble13-bit">
-    <img src="https://img.shields.io/badge/Follow%20My%20Journey-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow GitHub"/>
-  </a>
-</p>
+<br />
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
