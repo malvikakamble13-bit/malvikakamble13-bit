@@ -36,11 +36,11 @@
 
 ### 🐱 **[Hello Kitty Live](https://github.com/malvikakamble13-bit/hello-kitty-live)** — An interactive UI project featuring dynamic, real-time cursor tracking animation. 
   * [Live Demo →](https://malvikakamble13-bit.github.io/hello-kitty-live/) | *Tech Stack: HTML, CSS, JavaScript*
-
+--------------------------------------------
 
 ### 🎬 **[Horror Game: Choose Your Fate](https://github.com/malvikakamble13-bit/horror-game)** — A responsive, text-based interactive horror experience built with branching state logic. 
   * [Live Demo →](https://horror-game-ebon.vercel.app) | *Tech Stack: React, JavaScript, CSS*
-
+--------------------------------------------
 
 ### 🎨 [3D ASCII Text Generator](https://github.com/malvikakamble13-bit/ascii-app)
 An interactive 3D web application that renders text into real-time ASCII art with dynamic controls for text, color, and sizing.
