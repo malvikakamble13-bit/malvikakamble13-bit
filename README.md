@@ -56,19 +56,15 @@ Browser-based interactive game.
 -----
 
 ### 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=malvikakamble13-bit&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malvikakamble13-bit&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=malvikakamble13-bit&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvikakamble13-bit&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malvikakamble13-bit&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 
 ---
 
