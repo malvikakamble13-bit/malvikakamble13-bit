@@ -49,8 +49,7 @@ An interactive 3D web application that renders text into real-time ASCII art wit
 * **Tech Stack:** React 19, Three.js, Vite, Vercel
 
 --------------------------------------------
-
-### 🐣**[Endless Dodo] (https://endless-dodo.vercel.app/)**- Browser based interactive game.
+### 🐣 **[Endless Dodo](https://endless-dodo.vercel.app/)** — Browser-based interactive game.
 ---
 
 ### 📊 GitHub Analytics
